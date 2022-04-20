@@ -1,9 +1,10 @@
 import React from 'react'
-import "./add-product.scsss"
+import MainPanel from '../main-panel/MainPanel'
+import "./add-product.scss"
 const AddProduct = () => {
   return (
     <div >
-        
+        <MainPanel/>
     </div>
   )
 }

@@ -1,3 +1,4 @@
+import { Tabs, TabList, TabPanels, Tab, TabPanel } from "@chakra-ui/react";
 import React from "react";
 
 const MainPanel = () => {
